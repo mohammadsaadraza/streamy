@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "my stream edited",
+      "description": "hahahahahaha",
+      "id": 3
+    },
+    {
+      "title": "mr robot edited",
+      "description": "season",
+      "userId": "112462661760259088883",
+      "id": 5
+    },
+    {
+      "title": "apex legends",
+      "description": "game",
+      "userId": "112462661760259088883",
+      "id": 6
+    }
+  ]
+}
