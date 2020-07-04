@@ -1,5 +1,7 @@
-### api: JSON Server
+npm install and npm start commands for each server
 
-### client: REACT APP
+## api: JSON Server
 
-### rtmpServer: Streaming Server
+## client: REACT APP
+
+## rtmpServer: Streaming Server
