@@ -23,7 +23,7 @@ Create streams or watch streams from other users
 ![obsStudio](/screenshot2.PNG)
 
 
-#Future Use
+# Future Use
 * For the time being, the app only works in the development mode.
 * The app has been designed with the minimum functionality for simplicity purposes.
 * Highly configurable to accomodate new flow and features
