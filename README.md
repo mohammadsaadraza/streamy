@@ -1,4 +1,4 @@
-![obs studio](/screenshot 2.PNG)
+
 # Streamy
 Create streams or watch streams from other users
 
@@ -20,6 +20,7 @@ Create streams or watch streams from other users
 9. Start your stream and go back to the frontend, refresh your page and click on your Stream in the list. The Stream will be running now. It will be visible to other users.
 
 ![db.json](screenshot 1.PNG)
+![obsStudio](/screenshot2.PNG)
 
 
 #Future Use
