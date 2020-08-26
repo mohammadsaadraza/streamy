@@ -1,4 +1,4 @@
-
+![obs studio](/screenshot 2.PNG)
 # Streamy
 Create streams or watch streams from other users
 
