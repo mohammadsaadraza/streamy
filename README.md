@@ -19,8 +19,8 @@ Create streams or watch streams from other users
 8. Make sure you fill the `Server` field as in the screenshot below.
 9. Start your stream and go back to the frontend, refresh your page and click on your Stream in the list. The Stream will be running now. It will be visible to other users.
 
-![db.json](/screenshot 1.PNG)
-![obs studio](/screenshot 2.PNG)
+![db.json](/screenshot 1.PNG)\n
+
 
 #Future Use
 * For the time being, the app only works in the development mode.
